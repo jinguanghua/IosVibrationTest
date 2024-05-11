@@ -106,6 +106,12 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
+    "com.unitypackage.vibration": {
+      "version": "file:com.unitypackage.vibration",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
